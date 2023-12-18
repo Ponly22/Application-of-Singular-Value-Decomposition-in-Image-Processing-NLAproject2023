@@ -13,12 +13,12 @@ This repository consist of the project at NLA2023 course at Skoltech.
 -   Image denoising using SVD
 
   
-  ![image](https://github.com/Ponly22/Application-of-Singular-Value-Decomposition-in-Image-Processing-NLAproject/assets/88416337/effc9964-1738-4866-8a60-062c51c6e747)
+  [![dict.png](https://i.postimg.cc/xCwZQgq7/dict.png)](https://postimg.cc/zbk7SCCS)
 
 -   Image compression using SVD
 
   
-  ![image](https://github.com/Ponly22/Application-of-Singular-Value-Decomposition-in-Image-Processing-NLAproject/assets/88416337/d2fb895a-5102-493e-ab76-51b06b735e10)
+  [![photo-2023-12-19-00-37-31.jpg](https://i.postimg.cc/T3R5QDTv/photo-2023-12-19-00-37-31.jpg)](https://postimg.cc/zVcfG3Lx)
 
 
 ## Quickstart
