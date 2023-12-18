@@ -42,9 +42,12 @@ There are 4 main steps to build and test the results.
     u, s, vh = np.linalg.svd(img, full_matrices=False)
     ```
  3. Build the specific image processing functions 
-     such as compression.
+     such as compression
     here is the code:
     https://github.com/Ponly22/Application-of-Singular-Value-Decomposition-in-Image-Processing-NLAproject/tree/compression_images
+    and denoising.
+    here is the code:
+    https://github.com/Ponly22/Application-of-Singular-Value-Decomposition-in-Image-Processing-NLAproject/blob/main/denoising.ipynb
    
  5. Show image output
     ``` bash 
