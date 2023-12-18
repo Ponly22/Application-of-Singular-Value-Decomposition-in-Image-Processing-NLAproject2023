@@ -41,7 +41,7 @@ There are 4 main steps to build and test the results.
     ``` bash 
     u, s, vh = np.linalg.svd(img, full_matrices=False)
     ```
- 3. Make the specific image processing functions 
+ 3. Build the specific image processing functions 
      
  4. Show image output
     ``` bash 
